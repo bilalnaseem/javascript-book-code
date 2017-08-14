@@ -1,0 +1,9 @@
+
+
+
+   for commemting whole javascript or HTML code = (ctrl + /)
+
+
+   for HTML basic start code = (shift + 1) and then (tab) button
+
+
